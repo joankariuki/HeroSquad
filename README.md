@@ -5,7 +5,7 @@
 #### By **joan kariuki**
 
 ## Description
-This is a program where the user can create squads and populate each squad with four
+This is a program where the user can create squads and populate each squad with four changes
 
 
 
