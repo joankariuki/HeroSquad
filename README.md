@@ -5,7 +5,7 @@
 #### By **joan kariuki**
 
 ## Description
-This is a program where the user can create squads and populate each squad with four changes
+This is a program where the user can create squads and populate each squad with four changes.
 
 
 
@@ -19,7 +19,7 @@ Please feel free to contact joankariuki37@gmail.com if you have any issues or qu
 * Java
 * JUnit
 * Gradle
-* Spark
+
 
 ## License
 
